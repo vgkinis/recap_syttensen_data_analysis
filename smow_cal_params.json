@@ -1,0 +1,23 @@
+{
+    "data_file": "/Users/vasilis/Desktop/HIDS2143-20151014-000005Z-DataLog_User.dat",
+    "cfa_log_file": "./cfa_log_14102015.log",
+    "top_bag_flag": -999,
+    
+    "step_duration": 20,
+    "pct_on": 40,
+    "pct_off": 90,
+
+    "std1_d17": -11.5665,
+    "std1_d18": -21.8618,
+    "std1_dD": -168.32,
+
+    "std2_d17": -17.8129,
+    "std2_d18": -33.5183,
+    "std2_dD": -257.1778,
+
+    "std3_d17": -21.3808,
+    "std3_d18": -40.022,
+    "std3_dD": -311.0997
+
+
+}
